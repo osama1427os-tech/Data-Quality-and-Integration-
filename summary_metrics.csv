@@ -1,0 +1,2 @@
+source_rows,source_columns,missing_cells_in_required_columns,rows_with_at_least_one_missing_value,exact_duplicate_rows_marked,rows_after_exact_deduplication,rows_with_repeated_transaction_id,unique_source_systems
+15,7,1,1,1,14,12,2

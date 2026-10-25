@@ -1,0 +1,16 @@
+Transaction ID,Customer Name,Product,Amount,Date,Status,Source System,Exact Duplicate,Transaction ID Count,Needs ID Review
+T-IOOI,Customer_01,Laptop Pro,5000,2026-01-10,Completed,CRM,False,2,True
+T-1002,Customer_02,Office Chair,1200,2026-01-12,Completed,ERP,False,1,False
+T-IOOI,Customer_01,Laptop Pro,5000,2026-01-10,Completed,ERP,False,2,True
+T-1003,Customer_03,Headphones,350,2026-01-15,Pending,CRM,False,2,True
+T-1004,Customer_04,Smart Watch,890,2026-01-18,Completed,CRM,False,1,False
+T-1003,Customer_05,Headphones,350,2026-01-15,Pending,CRM,False,2,True
+T-1005,Customer_06,Printer,1500,2026-01-20,Refunded,CRM,False,2,True
+T-1005,Customer_06,Printer,1500,2026-02-20,Refunded,CRM,False,2,True
+T-1006,Customer_07,Keyboard,220,2026-01-22,Completed,CRM,False,2,True
+T-1006,Customer_07,Keyboard,220,2026-01-22,,CRM,False,2,True
+T-1007,Customer_08,Webcam,180,2026-01-25,Completed,CRM,False,2,True
+T-1007,Customer_08,Webcam,180,2026-01-25,Completed,CRM,True,2,True
+T-1008,Customer_09,Monitor,2200,2026-01-28,Completed,CRM,False,1,False
+T-1009,Customer_10,USB Hub,95,2026-02-01,Completed,ERP,False,2,True
+T-1009,Customer_10,USB Hub,95,2026-02-01,Completed,CRM,False,2,True

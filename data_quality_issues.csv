@@ -1,0 +1,15 @@
+source_row,transaction_id,issue_type,field,details
+2,T-IOOI,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+4,T-IOOI,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+5,T-1003,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+7,T-1003,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+8,T-1005,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+9,T-1005,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+10,T-1006,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+11,T-1006,Missing value,Status,Status is blank; do not impute without a business rule.
+11,T-1006,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+12,T-1007,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+13,T-1007,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+13,T-1007,Exact duplicate row,All fields,All normalized fields match an earlier row; candidate for removal after validation.
+15,T-1009,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."
+16,T-1009,Repeated transaction ID,Transaction ID,"Review against date, amount, product, status and source system before merging or deleting."

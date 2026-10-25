@@ -1,0 +1,15 @@
+Transaction ID,Customer Name,Product,Amount,Date,Status,Source System
+T-IOOI,Customer_01,Laptop Pro,5000,2026-01-10,Completed,CRM
+T-1002,Customer_02,Office Chair,1200,2026-01-12,Completed,ERP
+T-IOOI,Customer_01,Laptop Pro,5000,2026-01-10,Completed,ERP
+T-1003,Customer_03,Headphones,350,2026-01-15,Pending,CRM
+T-1004,Customer_04,Smart Watch,890,2026-01-18,Completed,CRM
+T-1003,Customer_05,Headphones,350,2026-01-15,Pending,CRM
+T-1005,Customer_06,Printer,1500,2026-01-20,Refunded,CRM
+T-1005,Customer_06,Printer,1500,2026-02-20,Refunded,CRM
+T-1006,Customer_07,Keyboard,220,2026-01-22,Completed,CRM
+T-1006,Customer_07,Keyboard,220,2026-01-22,,CRM
+T-1007,Customer_08,Webcam,180,2026-01-25,Completed,CRM
+T-1008,Customer_09,Monitor,2200,2026-01-28,Completed,CRM
+T-1009,Customer_10,USB Hub,95,2026-02-01,Completed,ERP
+T-1009,Customer_10,USB Hub,95,2026-02-01,Completed,CRM
